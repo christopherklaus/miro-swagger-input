@@ -1,0 +1,17 @@
+{
+  "name": "swagger-import",
+  "version": "0.1.0",
+  "licence": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "mirotone": "3"
+  },
+  "devDependencies": {
+    "@mirohq/websdk-types": "latest",
+    "vite": "3.0.3"
+  }
+}
